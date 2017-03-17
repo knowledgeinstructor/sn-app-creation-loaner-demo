@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="gsw_status_of_content">
     <gsw_status_of_content action="INSERT_OR_UPDATE">
+        <best_practice_allowed_ever/>
+        <checksum/>
         <content display_value="Usage Locations">0bf198606732120083f45bb557415a54</content>
         <effective_weight>1</effective_weight>
+        <previous_status/>
         <progress>0</progress>
         <related_log_entry display_value="2016-07-18 18:51:10">317e310867302200ca735bb557415a22</related_log_entry>
         <status>1</status>

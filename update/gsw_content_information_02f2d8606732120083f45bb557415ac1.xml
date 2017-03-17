@@ -3,6 +3,7 @@
     <gsw_content_information action="INSERT_OR_UPDATE">
         <active>true</active>
         <article><![CDATA[<p>Add the <b>Depot</b> and <b>Loaner</b> fields to the list that appears using either Personalize or Configure in the list menu.</p>]]></article>
+        <best_practice_acceptable>false</best_practice_acceptable>
         <dependent_on_contents/>
         <dependent_on_plugins/>
         <description/>

@@ -5,6 +5,7 @@
         <changed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</changed_by>
         <content display_value="Simple Setup">cfd063d06732120083f45bb557415ace</content>
         <related_change_log_entry/>
+        <related_task_entry/>
         <sys_class_name>gsw_change_log</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-25 23:52:44</sys_created_on>

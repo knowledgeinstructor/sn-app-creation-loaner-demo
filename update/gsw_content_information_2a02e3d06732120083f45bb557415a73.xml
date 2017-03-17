@@ -3,6 +3,7 @@
     <gsw_content_information action="INSERT_OR_UPDATE">
         <active>true</active>
         <article><![CDATA[<p>Configure the text of the existing notifications and make copies for each additional language you wish to support. Use the condition statement to ensure the right notification is sent to the recipient with that language configured in their profile.</p>]]></article>
+        <best_practice_acceptable>false</best_practice_acceptable>
         <dependent_on_contents/>
         <dependent_on_plugins/>
         <description/>

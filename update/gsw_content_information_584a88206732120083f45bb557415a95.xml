@@ -3,6 +3,7 @@
     <gsw_content_information action="INSERT_OR_UPDATE">
         <active>true</active>
         <article><![CDATA[<p>The loaner request system is capable of managing item requests across multiple locations (or depots.) Configure the choice list to indicate which depots are available. Set the default in a later step.</p>]]></article>
+        <best_practice_acceptable>false</best_practice_acceptable>
         <dependent_on_contents/>
         <dependent_on_plugins/>
         <description/>

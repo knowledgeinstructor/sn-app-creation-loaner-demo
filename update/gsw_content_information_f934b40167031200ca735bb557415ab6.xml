@@ -4,6 +4,7 @@
         <active>true</active>
         <article><![CDATA[<p>In the popup window that appears, scroll down to the <strong>Related Links</strong> and click <strong>Run Fix Script.</strong></p>
 <p>This creates two properties in the global scope that define the default fields displayed in the activity formatter of the loaner request and loaner tasks tables.</p>]]></article>
+        <best_practice_acceptable>false</best_practice_acceptable>
         <dependent_on_contents/>
         <dependent_on_plugins/>
         <description/>

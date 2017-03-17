@@ -4,6 +4,7 @@
         <active>true</active>
         <article><![CDATA[<p>Add/remove/update the modules under the <strong>Items</strong> separator to represent the different types of assets available. These modules make it easier to add/remove assets of each type later. Use the following configuration as an example:</p>
 <p>Title: <b>Laptops</b><br />Application menu: <b>Loaner Request</b><br />Order: <b>2,100</b><br />Link Type: <b>List of Records</b><br />Table: <b>Computer [cmdb_ci_computer]</b><br />Filter: <b>Loaner | is | true</b></p>]]></article>
+        <best_practice_acceptable>false</best_practice_acceptable>
         <dependent_on_contents/>
         <dependent_on_plugins/>
         <description/>

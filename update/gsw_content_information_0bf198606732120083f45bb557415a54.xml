@@ -3,6 +3,7 @@
     <gsw_content_information action="INSERT_OR_UPDATE">
         <active>true</active>
         <article><![CDATA[<p>Add/remove/update the options in the Question Choices list below to accurately reflect where your items are available to use. This is different than the location (depot) where it is picked up and may have an impact on how an item is configured before it is deployed. For example, a mobile phone may be picked up in Chicago and used in Singapore.</p>]]></article>
+        <best_practice_acceptable>false</best_practice_acceptable>
         <dependent_on_contents/>
         <dependent_on_plugins/>
         <description/>

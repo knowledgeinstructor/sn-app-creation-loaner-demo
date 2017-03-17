@@ -3,6 +3,7 @@
     <gsw_content_information action="INSERT_OR_UPDATE">
         <active>true</active>
         <article><![CDATA[<p>Use this list of choices to configure which table(s) in the CMDB are used to identify potential loaner assets. For example, &#34;Laptops&#34; has a value of &#34;cmdb_ci_computer&#34;. You may need to extend the CMDB to facilitate asset types that are not provided with a baseline ServiceNow configuration. For example, a new table called u_cmdb_ci_mobile_phone to store loaner phones. Standalone tables are not supported.</p>]]></article>
+        <best_practice_acceptable>false</best_practice_acceptable>
         <dependent_on_contents/>
         <dependent_on_plugins/>
         <description/>

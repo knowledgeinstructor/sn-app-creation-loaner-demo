@@ -3,6 +3,7 @@
     <gsw_content_information action="INSERT_OR_UPDATE">
         <active>true</active>
         <article><![CDATA[<p>Set the <b>Loaner</b> field to <b>true</b> on any item you wish to add to the loaner pool. Additionally, use the <b>Depot</b> field to determine where that item may be picked up and returned. These two values combined with the requested start/end time determine which assets are available on loaner requests.</p>]]></article>
+        <best_practice_acceptable>false</best_practice_acceptable>
         <dependent_on_contents/>
         <dependent_on_plugins/>
         <description/>

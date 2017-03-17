@@ -5,6 +5,7 @@
         <enforce_license>log</enforce_license>
         <js_level>traditional</js_level>
         <licensable>true</licensable>
+        <license_model>fulfiller</license_model>
         <logo/>
         <menu display_value="Loaner Request">f8e4341167301200f5c55bb557415a78</menu>
         <name>Loaner Request</name>
