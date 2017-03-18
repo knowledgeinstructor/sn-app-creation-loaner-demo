@@ -14,7 +14,7 @@
         <sys_class_name>sys_rest_message</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-17 19:01:09</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ae4176f5672132001ad95bb557415ab7</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Get laptop password</sys_name>
